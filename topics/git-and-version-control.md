@@ -1,9 +1,4 @@
 
----
-
-## ✅ 2. `git-and-version-control.md`
-
-```markdown
 # 🔧 Git and Version Control
 
 This guide summarizes practical Git commands, branching models, and common workflows for engineering teams.
