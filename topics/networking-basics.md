@@ -8,7 +8,7 @@
 # 🌐 Networking Basics for Engineers
 
 Foundational networking concepts for engineers dealing with systems, automation, or simulations.
-
+```
 ---
 
 ## 🧱 OSI Model Layers
