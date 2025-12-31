@@ -21,7 +21,7 @@ sudo chown -R user:group folder/
 
 ---
 
-## 📦 Package Management
+### 📦 Package Management
 
 # Debian/Ubuntu
 
