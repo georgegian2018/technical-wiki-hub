@@ -40,21 +40,7 @@ Before starting, ensure you have:
 # Example
 Check logs or config output and Screenshots or result checks (optional)
 
-3. **Step 3 — Optional variations**
- ```bash
-# Example
-macOS / Windows notes and Alternative configurations
 
-
-
-
-
-✔ Renders correctly  
-✔ Copyable  
-✔ Usable as a real template  
-✔ GitHub-native  
-
-👉 **This is how professional docs do it**
 
 ---
 
