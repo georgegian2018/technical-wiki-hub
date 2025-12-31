@@ -50,3 +50,4 @@ Foundational networking concepts for engineers dealing with systems, automation,
 ```bash
 ping 8.8.8.8
 traceroute www.google.com
+```
