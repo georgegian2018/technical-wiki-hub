@@ -48,7 +48,7 @@ technical-wiki-hub/
 │  ├─ research-links.md
 │  └─ standards-and-references.md
 └─ LICENSE
-
+```
 ---
 
 ## 🔗 Linked Repositories
