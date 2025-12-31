@@ -37,7 +37,9 @@ Before starting, ensure you have:
 
 2. **Step 2 — Verify or check**
 
+
   ```bash
+# Example
 - Check logs or config output
 
 - Screenshots or result checks (optional)
@@ -45,6 +47,7 @@ Before starting, ensure you have:
 3. **Step 3 — Optional variations**
 
   ```bash
+# Example
 - macOS / Windows notes
 
 - Alternative configurations
