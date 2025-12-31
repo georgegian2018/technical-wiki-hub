@@ -18,3 +18,16 @@ find . -name "*.v"
 # Permissions
 chmod +x script.sh
 sudo chown -R user:group folder/
+
+---
+
+## 📦 Package Management
+
+# Debian/Ubuntu
+
+sudo apt update && sudo apt install build-essential
+
+--
+# RedHat/CentOS
+
+sudo yum install make gcc gcc-c++
