@@ -1,9 +1,3 @@
-
----
-
-## ✅ 4. `simulations.md`
-
-
 # 🧪 Simulations in Engineering
 
 Overview of common simulation tools and environments used in engineering: signal processing, antennas, EM, thermal, and system modeling.
