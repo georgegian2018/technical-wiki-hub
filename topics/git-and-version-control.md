@@ -15,11 +15,13 @@ git add .                    # Stage changes
 git commit -m "msg"          # Commit
 git push origin main         # Push to remote
 
+```
+
 | Tool     | Description         |
 |----------|---------------------|
 | `make`   | Build automation    |
 | `git`    | Version control     |
 | `tmux`   | Terminal multiplexer|
 
-```
+
 Use `main` as your primary branch.
