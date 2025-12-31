@@ -26,4 +26,5 @@ git push origin main         # Push to remote
 | `git`    | Version control     |
 | `tmux`   | Terminal multiplexer|
 
+```
 Use `main` as your primary branch.
