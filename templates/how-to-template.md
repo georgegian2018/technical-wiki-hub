@@ -37,12 +37,14 @@ Before starting, ensure you have:
 
 2. **Step 2 — Verify or check**
 
+  ```bash
 - Check logs or config output
 
 - Screenshots or result checks (optional)
 
 3. **Step 3 — Optional variations**
 
+  ```bash
 - macOS / Windows notes
 
 - Alternative configurations
