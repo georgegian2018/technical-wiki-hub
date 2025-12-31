@@ -1,6 +1,13 @@
 # technical-wiki-hub
+# 🧠 Technical Wiki Hub
 
-## Repository Structure
+Welcome to the **Technical Wiki Hub** — a curated entry point for all engineering documentation, templates, references, and structured knowledge.
+
+This repository serves as a central dashboard for exploring domain-specific wikis, reusable templates, and technical best practices.
+
+---
+
+## 📁 Repository Structure
 
 ```text
 technical-wiki-hub/
@@ -20,59 +27,3 @@ technical-wiki-hub/
 └─ LICENSE
 
 
-
-⚠️ **Important details**
-- The opening fence must be: <code>```text</code>
-- The closing fence must be: <code>```</code>
-- No extra characters before or after
-- Do **not** indent the fences
-
----
-
-## ❌ What to remove from your current file
-
-Delete:
-- The **inline tree text**
-- The **duplicated second copy**
-
-Anything that looks like this **outside** a code block must go:
-
-
----
-
-## ✅ What the Preview should look like after
-
-You should see:
-- A **monospaced tree**
-- Proper vertical alignment
-- No wrapping
-- No duplication
-
-Exactly like your `engineering-research-wiki` README.
-
----
-
-## Rule to remember (this will save you time)
-
-> **If it’s a directory tree, it must always be inside a fenced code block.**
-
-Prefer:
-- ` ```text ` → best
-- ` ```bash ` → acceptable
-- ❌ ` ```yaml ` → misleading
-- ❌ no fence → broken rendering
-
----
-
-## Next recommended step (logical progression)
-
-Once this is fixed, the next clean step is to:
-- Add a **short descriptive paragraph above the tree**
-- Then link **engineering-research-wiki** from this README
-
-If you want, I can:
-- Rewrite the **full `technical-wiki-hub/README.md`** cleanly
-- Align both READMEs stylistically
-- Prepare your **GitHub profile README** to showcase both repos
-
-Just tell me what you want to do next.
