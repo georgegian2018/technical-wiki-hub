@@ -38,8 +38,9 @@ Before starting, ensure you have:
 2. **Step 2 — Verify or check**
   ```bash
 # Example
-- Check logs or config output
+Check logs or config output and Screenshots or result checks (optional)
 
-- Screenshots or result checks (optional)
-
-
+3. **Step 3 — Optional variations**
+ ```bash
+# Example
+macOS / Windows notes and Alternative configurations
