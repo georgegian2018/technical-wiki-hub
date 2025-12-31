@@ -25,3 +25,5 @@ git push origin main         # Push to remote
 | `make`   | Build automation    |
 | `git`    | Version control     |
 | `tmux`   | Terminal multiplexer|
+
+Use `main` as your primary branch.
