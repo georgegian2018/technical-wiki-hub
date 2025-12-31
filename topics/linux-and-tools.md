@@ -19,4 +19,5 @@ find . -name "*.v"
 chmod +x script.sh
 sudo chown -R user:group folder/
 
-------
+---
+
