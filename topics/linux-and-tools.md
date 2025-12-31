@@ -12,11 +12,15 @@ ls -lah
 ```
 ---
 # Search
+```markdown
 grep "pattern" file.txt
 find . -name "*.v"
+```
 
 # Permissions
+
+```markdown
 chmod +x script.sh
 sudo chown -R user:group folder/
-
+```
 ---
