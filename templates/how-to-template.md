@@ -44,3 +44,39 @@ Check logs or config output and Screenshots or result checks (optional)
  ```bash
 # Example
 macOS / Windows notes and Alternative configurations
+
+
+
+
+
+✔ Renders correctly  
+✔ Copyable  
+✔ Usable as a real template  
+✔ GitHub-native  
+
+👉 **This is how professional docs do it**
+
+---
+
+## ✅ OPTION 2:  
+### Show the template *as raw Markdown* (documentation about documentation)
+
+If you truly want to **demonstrate Markdown syntax itself**, then you must **escape the inner code block**.
+
+### ✅ Correct escaped version
+
+```markdown
+```markdown
+## 🪜 Step-by-Step Instructions
+
+1. **Step 1 — Do something important**
+
+   \`\`\`bash
+   sudo apt install example-package
+   \`\`\`
+
+2. **Step 2 — Verify or check**
+   - Check logs or config output
+
+3. **Step 3 — Optional variations**
+   - macOS / Windows notes
