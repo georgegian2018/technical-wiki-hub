@@ -1,0 +1,23 @@
+# 🛠️ GitHub and Developer Tools
+
+Tools and services to support modern software development, collaboration, and workflow automation.
+
+---
+
+## 🧰 GitHub Platform
+
+- [GitHub](https://github.com) — Version control and open collaboration
+- [GitHub Pages](https://pages.github.com) — Static site hosting for project wikis
+- [GitHub Actions](https://docs.github.com/en/actions) — CI/CD and automation
+- [GitHub CLI](https://cli.github.com) — Command-line GitHub workflows
+- [GitHub Codespaces](https://github.com/features/codespaces) — Cloud-based dev environments
+
+---
+
+## 🔧 Developer Tools
+
+- [Git](https://git-scm.com) — Core distributed version control tool
+- [VS Code](https://code.visualstudio.com/) — Lightweight and extensible IDE
+- [Docker](https://www.docker.com) — Containerization for development and reproducibility
+- [tmux](https://github.com/tmux/tmux/wiki) — Terminal multiplexer for remote dev
+- [GDB](https://www.gnu.org/software/gdb/) — GNU Debugger for low-level dev
