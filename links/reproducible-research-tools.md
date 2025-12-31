@@ -1,0 +1,35 @@
+# 🔬 Reproducible Research Tools
+
+Tools that support open science, computational reproducibility, and portable research environments.
+
+---
+
+## 📓 Computational Notebooks
+
+- [Jupyter Notebooks](https://jupyter.org)
+- [Google Colab](https://colab.research.google.com)
+- [Quarto](https://quarto.org)
+
+---
+
+## 📦 Environment Sharing
+
+- [Binder](https://mybinder.org) — Share live, reproducible notebooks from GitHub
+- [Docker](https://www.docker.com) — Containers for reproducible environments
+- [ReproZip](https://www.reprozip.org/) — Package and run experiments anywhere
+
+---
+
+## 🧪 Research Archive & DOI Integration
+
+- [Zenodo](https://zenodo.org) — Archive and cite GitHub repositories with DOI
+- [Figshare](https://figshare.com) — Open research output sharing
+- [OSF](https://osf.io) — Project and data management for research
+
+---
+
+## 📎 Versioning + Licensing
+
+- [GitHub Releases](https://docs.github.com/en/repositories/releasing-projects-on-github)
+- [Software Heritage](https://www.softwareheritage.org/)
+- [SPDX License List](https://spdx.org/licenses/)
