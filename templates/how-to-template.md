@@ -37,12 +37,12 @@ Before starting, ensure you have:
 
 2. **Step 2 — Verify or check**
 
-Check logs or config output
+- Check logs or config output
 
-Screenshots or result checks (optional)
+- Screenshots or result checks (optional)
 
 3. **Step 3 — Optional variations**
 
-macOS / Windows notes
+- macOS / Windows notes
 
-Alternative configurations
+- Alternative configurations
